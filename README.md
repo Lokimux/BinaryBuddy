@@ -1,9 +1,9 @@
 # BinaryBuddy
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://binarybuddy.streamlit.app/)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/BinaryBuddy)](https://github.com/yourusername/BinaryBuddy/issues)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/BinaryBuddy)](https://github.com/yourusername/BinaryBuddy/network)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/BinaryBuddy)](https://github.com/yourusername/BinaryBuddy/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/BinaryBuddy)](https://github.com/Lokimux/BinaryBuddy/issues)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/BinaryBuddy)](https://github.com/Lokimux/BinaryBuddy/network)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/BinaryBuddy)](https://github.com/Lokimux/BinaryBuddy/stargazers)
 
 ## Overview
 
@@ -27,15 +27,15 @@ BinaryBuddy leverages modern web technologies to provide:
 
 ### Prerequisites
 
-- Python 3.x
-- [Additional requirements if any]
+- Python 3.9
+
 
 ### Installation
 
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/BinaryBuddy.git
+git clone https://github.com/Lokimux/BinaryBuddy.git
 ```
 
 Install the required dependencies:
@@ -57,6 +57,6 @@ Once running, a local URL will be provided in your terminal. Open this URL in yo
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [lokeshbsc11@gmail.com](mailto:lokeshbsc11@gmail.com)
 
-Project Link: [https://github.com/yourusername/BinaryBuddy](https://github.com/yourusername/BinaryBuddy)
+Project Link: [https://github.com/Lokimux/BinaryBuddy](https://github.com/Lokimux/BinaryBuddy)
